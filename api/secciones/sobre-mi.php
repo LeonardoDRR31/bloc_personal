@@ -440,7 +440,7 @@
                 </div>
 
                 <div class="hero-image">
-                    <img src="src/images/portada.jpg" alt="Mi fotografía">
+                    <img src="src/images/portada.jpeg" alt="Mi fotografía">
                 </div>
 
             </div>
