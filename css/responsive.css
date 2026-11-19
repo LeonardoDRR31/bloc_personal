@@ -1,0 +1,22 @@
+
+@media (max-width: 768px) {
+
+    .section {
+        padding: 70px 0;
+    }
+
+    .section h2 {
+        font-size: 30px;
+    }
+
+    .about-content {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+
+    .articles-grid,
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
