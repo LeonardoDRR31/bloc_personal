@@ -9,7 +9,7 @@
         <div class="about-content">
 
             <div class="about-image">
-                <img src="/images/portada.jpeg" alt="Mi fotografía">
+                <img src="/images/portada.jpg" alt="Mi fotografía">
             </div>
 
             <div class="about-text">
