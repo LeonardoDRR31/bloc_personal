@@ -13,7 +13,7 @@
         <div class="projects-grid">
 
             <article class="project-card">
-                <img src="../images/proyecto1.jpg" alt="Proyecto web">
+                <img src="/images/proyecto1.jpg" alt="Proyecto web">
 
                 <div class="project-info">
                     <h3>Proyecto web</h3>

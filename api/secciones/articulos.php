@@ -24,7 +24,7 @@
             </article>
 
             <article class="article-card">
-                <img src="../images/articulo2.jpg" alt="Diseño web">
+                <img src="/images/articulo2.jpg" alt="Diseño web">
 
                 <div class="article-info">
                     <span>DISEÑO</span>
