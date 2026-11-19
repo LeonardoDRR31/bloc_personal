@@ -13,7 +13,7 @@
         <div class="articles-grid">
 
             <article class="article-card">
-                <img src="../images/articulo1.jpg" alt="Desarrollo web">
+                <img src="/img/images.png" alt="Desarrollo web">
 
                 <div class="article-info">
                     <span>PROGRAMACIÓN</span>
@@ -24,7 +24,7 @@
             </article>
 
             <article class="article-card">
-                <img src="/images/articulo2.jpg" alt="Diseño web">
+                <img src="/img/desarrollo.png" alt="Diseño web">
 
                 <div class="article-info">
                     <span>DISEÑO</span>
