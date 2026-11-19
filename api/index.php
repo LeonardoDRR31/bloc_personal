@@ -431,7 +431,7 @@
                     </span>
 
                     <h1>
-                        Hola, soy <span>Tu Nombre.</span>
+                        Hola, soy <span>LEONARDO DAVID ROJAS ROJAS.</span>
                     </h1>
 
                     <p>
@@ -463,7 +463,7 @@
                     <img src="../img/perfil.jpeg" alt="Fotografía personal">
 
                     <div>
-                        <h3>¡Hola! Soy Tu Nombre.</h3>
+                        <h3>¡Hola! Soy Leonardo David Rojas Rojas.</h3>
 
                         <p>
                             Soy una persona apasionada por la tecnología,
@@ -495,7 +495,7 @@
 
                         <div>
                             <h3>Educación secundaria</h3>
-                            <p>Nombre de mi colegio.</p>
+                            <p>Gloriosa 329</p>
                             <p>Mis años de formación escolar.</p>
                         </div>
                     </article>
@@ -505,7 +505,7 @@
 
                         <div>
                             <h3>Educación universitaria</h3>
-                            <p>Nombre de mi universidad.</p>
+                            <p>Universidad Nacional del Santa.</p>
                             <p>Mi carrera profesional.</p>
                         </div>
                     </article>
@@ -543,19 +543,19 @@
                 <div class="hobbies-grid">
 
                     <article class="hobby-card">
-                        <img src="../img/hobby1.jpeg" alt="Programación">
+                        <img src="/desarrollo" alt="Programación">
                         <h3>Programación</h3>
                         <p>Me gusta aprender nuevas tecnologías.</p>
                     </article>
 
                     <article class="hobby-card">
-                        <img src="../img/hobby2.jpeg" alt="Música">
+                        <img src="/img/piano" alt="Música">
                         <h3>Escuchar música</h3>
                         <p>Disfruto escuchar música en mi tiempo libre.</p>
                     </article>
 
                     <article class="hobby-card">
-                        <img src="../img/hobby3.jpeg" alt="Videojuegos">
+                        <img src="../img/juegos" alt="Videojuegos">
                         <h3>Videojuegos</h3>
                         <p>Me gusta disfrutar de los videojuegos.</p>
                     </article>
