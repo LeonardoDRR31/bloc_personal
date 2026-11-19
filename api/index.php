@@ -460,7 +460,7 @@
 
                 <div class="about-content">
 
-                    <img src="../img/perfil.jpeg" alt="Fotografía personal">
+                    <img src="/img/portada.jpeg" alt="Fotografía personal">
 
                     <div>
                         <h3>¡Hola! Soy Leonardo David Rojas Rojas.</h3>
