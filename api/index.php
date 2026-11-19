@@ -543,19 +543,19 @@
                 <div class="hobbies-grid">
 
                     <article class="hobby-card">
-                        <img src="/desarrollo" alt="Programación">
+                        <img src="/desarrollo.png" alt="Programación">
                         <h3>Programación</h3>
                         <p>Me gusta aprender nuevas tecnologías.</p>
                     </article>
 
                     <article class="hobby-card">
-                        <img src="/img/piano" alt="Música">
+                        <img src="/img/pianojpg" alt="Música">
                         <h3>Escuchar música</h3>
                         <p>Disfruto escuchar música en mi tiempo libre.</p>
                     </article>
 
                     <article class="hobby-card">
-                        <img src="../img/juegos" alt="Videojuegos">
+                        <img src="../img/juegos.jpg" alt="Videojuegos">
                         <h3>Videojuegos</h3>
                         <p>Me gusta disfrutar de los videojuegos.</p>
                     </article>
