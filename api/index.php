@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Mi blog personal de tecnología y desarrollo web">
+    <meta name="description" content="Mis blog personal de tecnología y desarrollo web">
 
     <title>Mi Blog Personal</title>
 
