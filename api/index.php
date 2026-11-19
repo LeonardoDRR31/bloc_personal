@@ -444,7 +444,7 @@
                 </div>
 
                 <div class="hero-image">
-                    <img src="../img/portada.jpeg" alt="Mi fotografía">
+                    <img src="/img/portada.jpeg" alt="Mi fotografía">
                 </div>
 
             </div>
@@ -491,7 +491,7 @@
                 <div class="education-grid">
 
                     <article class="education-card">
-                        <img src="../img/secundaria.jpeg" alt="Mi etapa escolar">
+                        <img src="../img/colegio.jpg" alt="Mi etapa escolar">
 
                         <div>
                             <h3>Educación secundaria</h3>
@@ -501,7 +501,7 @@
                     </article>
 
                     <article class="education-card">
-                        <img src="../img/universidad.jpeg" alt="Mi universidad">
+                        <img src="/img/uno.jpg" alt="Mi universidad">
 
                         <div>
                             <h3>Educación universitaria</h3>
