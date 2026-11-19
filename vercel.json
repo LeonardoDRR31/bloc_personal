@@ -1,22 +1,14 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/**/*.php": {
+    "api/index.php": {
       "runtime": "vercel-php@0.9.0"
     }
   },
   "rewrites": [
     {
-      "source": "/",
+      "source": "/((?!img_|css_|js_|api/).*)",
       "destination": "/api/index.php"
-    },
-    {
-      "source": "/css/(.*)",
-      "destination": "/api/css/$1"
-    },
-    {
-      "source": "/secciones/(.*)",
-      "destination": "/api/secciones/$1"
     }
   ]
 }
