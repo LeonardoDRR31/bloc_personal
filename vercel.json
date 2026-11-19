@@ -7,7 +7,7 @@
   },
   "rewrites": [
     {
-      "source": "/((?!images_|css_|js_|api/).*)",
+      "source": "/((?!img_|css_|js_|api/).*)",
       "destination": "/api/index.php"
     }
   ]
